@@ -49,6 +49,7 @@ paramiko
 bcrypt
 scp
 cx_Oracle
+mysql-connector
 mysqlclient
 pandas_profiling
 pygsheets
